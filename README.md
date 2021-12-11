@@ -1,8 +1,12 @@
 # cloudos kubectl
 
-A `kubectl` plugin to ...
+TODO: add readme
 
-## Quick Start
+## plugin
+
+A `kubectl` plugin for cloudos/clos
+
+### Quick Start
 
 ```
 kubectl krew install cloudos
