@@ -1,4 +1,4 @@
-# cloudos kubectl
+# cloudos
 
 TODO: add readme
 
